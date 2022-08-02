@@ -27,7 +27,7 @@ body{
 
 .hero{
     height: 100vh;
-    background-image: var(--background), url('../img/obc.svg');
+    background-image: var(--background), url('../img/obcFondo.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
